@@ -1,0 +1,32 @@
+/* src/index.css */
+
+/* Tailwind Base, Components, Utilities */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global Styles */
+body {
+  font-family: 'Inter', sans-serif; /* modern, professional font */
+  background-color: #0f172a;        /* dark background matching Tailwind bg-gray-950 */
+  color: #f1f5f9;                   /* default text color */
+  scroll-behavior: smooth;           /* smooth scrolling for anchor links */
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;             /* remove underline by default */
+}
+
+section {
+  scroll-margin-top: 80px;           /* prevent fixed navbar from overlapping section titles */
+}
+
+/* Optional: Customize selection color */
+::selection {
+  background-color: #2563eb;         /* Tailwind blue-600 */
+  color: #ffffff;
+}
+
+
