@@ -26,7 +26,7 @@ export default function Hero() {
         </h1>
 
         <p className="text-xl text-gray-400 mb-6">
-          Backend Engineer | API Developer | LMS & Data Specialist
+          Software Engineer | Full Stack Developer | Specializing in Backend Development
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">

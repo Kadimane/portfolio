@@ -6,8 +6,7 @@ export default function About() {
       <h2 className="text-3xl font-bold mb-6 text-blue-400">About</h2>
 
       <p className="text-gray-300 leading-relaxed text-lg mb-4">
-        I am <strong>Kadimane Gloriah</strong>, a Backend Engineer specializing in building
-        secure, scalable, and efficient web applications. I have strong experience
+        I am <strong>Kadimane Gloriah</strong>, a Software Engineer and Full Stack Developer by profession, specializing in Backend Development. I have strong experience
         in Python and JavaScript (Node.js & Express.js), designing APIs, and working
         with relational databases such as MySQL and PostgreSQL.
       </p>
